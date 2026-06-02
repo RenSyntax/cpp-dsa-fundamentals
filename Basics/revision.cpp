@@ -12,6 +12,6 @@ int main() {
   string hello; // declare a string variable
   getline(cin,
           hello); // internal function for the whole input of string/sentence
-  cout << hello;  // cout of the input. just get the gitcommit
+  cout << hello;  // cout of the input.
   return 0;
 }
