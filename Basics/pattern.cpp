@@ -27,6 +27,7 @@ void pattern2(int m) {
   }
 }
 
+// Revise, Important pattern to understand:
 void pattern3(int b) {
 
   // count the number of lines:
@@ -40,6 +41,13 @@ void pattern3(int b) {
   }
 }
 
+void pattern4(int l) {
+  // outer loop for the rows;
+  for (int i = 0; i < l; i++) {
+    for (int j = 0; j <= l; j++) {
+    }
+  }
+}
 int main() {
   int input{};
   cout << "Please Enter the Number of Symetry: ";
