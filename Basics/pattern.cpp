@@ -30,12 +30,13 @@ void pattern2(int m) {
 void pattern3(int b) {
 
   // count the number of lines:
-  for (int i = 0; i < b; i++) {
+  for (int i = 1; i < b; i++) {
     // for the inner loop, connect the rows to the colums;
-    for (int j = 0; j <= i; j++) {
+    for (int j = 1; j <= i; j++) {
 
-      cout <<
+      cout << j << " ";
     }
+    cout << endl;
   }
 }
 
@@ -43,6 +44,6 @@ int main() {
   int input{};
   cout << "Please Enter the Number of Symetry: ";
   cin >> input;
-  pattern2(input);
+  pattern3(input);
   return 0;
 }
