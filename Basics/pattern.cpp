@@ -14,10 +14,23 @@ void pattern(int n) {
   }
 }
 
+void pattern2(int m) {
+
+  // number of rows will be the first:
+  for (int i = 0; i < m; i++) {
+
+    // You somehow has to connect the columns to the rows.:
+    for (int j = 0; j <= i; j++) {
+      cout << "*";
+    }
+    cout << endl;
+  }
+}
+
 int main() {
   int input{};
   cout << "Please Enter the Number of Symetry: ";
   cin >> input;
-  pattern(input);
+  pattern2(input);
   return 0;
 }
