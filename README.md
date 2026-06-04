@@ -3,6 +3,6 @@
 Welcome to my personal repository dedicated to mastering **Data Structures and Algorithms (DSA)**. This repo serves as personal documentation and progress tracking for problems i solve and concepts i learn.
 
 ## Current Progress:
-Currently, I am learning specific topics, in future progress from LeetCode, will be added.
+Currently, I am learning specific topics, in future progress, from LeetCode, will be added.
 
 - Basic Patterns | In Progress
