@@ -1,15 +1,22 @@
-#  Personal Repo of Learning **C++**:
+# Personal Repo of Learning **C++**:
+---
 This Repo contains all the code i wrote during my journey of learning **C++**.
  Which is my **First Programming Language**.
 
-##  Concepts Targets To Cover:
+## Concepts Targets To Cover:
 - [x] Introduction To Cpp **Completed**
 - [x] C++ Basics **Completed**
 - [x] Operators in C++ **Completed**
 - [x] Control Structures and Functions **Completed**
 - [ ] Standard Template Library **In Process**
 
-###  Repo Highlights:
+## Tech Stack & Tool Used:
+Used basic tools.
+
+- **Language**: C++
+- **Environemnt**: VS Code
+
+## Repo Highlights:
 - **[Attendence Calculator](./Control_Structure_Functions/attendence_calculator.cpp):**
   - Makes use of Functions and Loops.
 
@@ -20,3 +27,4 @@ This Repo contains all the code i wrote during my journey of learning **C++**.
   - Basic programme;
   - Makes use of if/else Statements only.
 
+---
