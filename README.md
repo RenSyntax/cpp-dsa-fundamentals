@@ -10,7 +10,7 @@ This Repo contains all the code i wrote during my journey of learning **C++**.
 - [x] Control Structures and Functions **Completed**
 - [ ] Standard Template Library **In Process**
 
-## Tech Stack & Tool Used:
+## 🛠️ Tech Stack & Tool Used:
 Used basic tools.
 
 - **Language**: C++
