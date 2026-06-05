@@ -1,4 +1,4 @@
-# My Documented journery of Learning Data Structures and Algorithms (DSA):
+# 🚀 My Documented journery of Learning Data Structures and Algorithms (DSA):
 ---
 Welcome to my personal repository dedicated to mastering **Data Structures and Algorithms (DSA)**. This repo serves as personal documentation and progress tracking for problems i solve and concepts i learn.
 
