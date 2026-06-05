@@ -1,9 +1,9 @@
-# Personal Repo of Learning **C++**:
+# 🚀 Personal Repo of Learning **C++**:
 ---
 This Repo contains all the code i wrote during my journey of learning **C++**.
  Which is my **First Programming Language**.
 
-## Concepts Targets To Cover:
+## 📚 Concepts Targets To Cover:
 - [x] Introduction To Cpp **Completed**
 - [x] C++ Basics **Completed**
 - [x] Operators in C++ **Completed**
