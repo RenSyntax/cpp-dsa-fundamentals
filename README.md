@@ -7,7 +7,7 @@ Currently, I am learning specific topics, in future progress, from LeetCode, wil
 
 - Basic Patterns | In Progress
 
-## Tech Stack & Tool Used:
+## 🛠️ Tech Stack & Tool Used:
 Mostly use basic tools for now.
 
 - **Language**: C++
