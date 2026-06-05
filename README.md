@@ -16,7 +16,7 @@ Used basic tools.
 - **Language**: C++
 - **Environemnt**: VS Code
 
-## Repo Highlights:
+## ⚡ Repo Highlights:
 - **[Attendence Calculator](./Control_Structure_Functions/attendence_calculator.cpp):**
   - Makes use of Functions and Loops.
 
