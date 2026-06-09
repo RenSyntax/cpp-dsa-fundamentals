@@ -43,7 +43,7 @@ void pattern2(int n) {
 // Pattern 3:
 void pattern3(int n) {
 
-  /*
+  /* Example:
   1
   12
   123
@@ -53,17 +53,41 @@ void pattern3(int n) {
 
   for (int i = 1; i <= n; i++) {
     for (int j = 1; j <= i; j++) {
-      cout << j; // Try to Visualize the logic with a example input.
+      cout
+          << j; // Try to Visualize the logic with a example input.
+                // When you use 'j' you are calling the nested loop, whose value
+                // differ, and is not constant, example: 1 --> 2 --> 3......
     }
     cout << endl;
   }
   // Done.
 }
 
+// Pattern 4:
+void pattern4(int n) {
+
+  /* Example:
+  1
+  22
+  333
+  4444
+  55555
+  */
+
+  for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= i; j++) {
+      cout << i; // outside 'for' loop determines the rows, wnen you use it
+                 // inside a nested loop, it acts as a constant, example '1',
+                 // '2' or '3'....
+    }
+    cout << endl;
+  }
+}
+
 // backend:
 int main() {
   int input{};
   cin >> input;
-  pattern3(input);
+  pattern4(input);
   return 0;
 }
