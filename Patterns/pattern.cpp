@@ -84,6 +84,16 @@ void pattern4(int n) {
   }
 }
 
+// Pattern 5:
+void pattern5(int n) {
+
+  /* Example:
+
+  */
+
+  for (int i =)
+}
+
 // backend:
 int main() {
   int input{};
