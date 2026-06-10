@@ -10,7 +10,7 @@ Currently, I am learning specific topics, in future progress, from LeetCode, wil
 ## 🛠️ Tech Stack & Tool Used:
 Mostly use basic tools for now.
 
-- **Language**: C++
-- **Environment**: VS Code
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" style="margin-right: 10px;"/>
 
 ---
