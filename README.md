@@ -85,13 +85,13 @@ Run the following command in your respective terminal:
 
 ## 📈 Goals
 
-- [ ] Complete core `C++` concepts required for **data strructures & algorithms**.
+- [ ] Complete core `C++` concepts required for `data structures & algorithms`.
 
-- [ ] Implement and understand all fundamental **data structures**
+- [ ] Implement and understand all **fundamental** `data structures`
 
 - [ ] Solve **200+** standard `DSA` problems across standard paradigms.
 
-- [ ] Maintain **clean**, **readable**, and **well-commented/docummented** code.
+- [ ] Maintain clean, readable, and **well-commented/documented** code.
 
 ---
 
