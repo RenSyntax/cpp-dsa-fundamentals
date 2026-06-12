@@ -40,7 +40,7 @@ sudo apt update && sudo apt install build-essential git -y
 
 * **For C++ Compiler:** The easiest way to get g++ on Windows is by downloading [MinGW-w64 via MSYS2](https://www.msys2.org) or installing the "Desktop development with C++" workload via [Visual Studio Community](https://visualstudio.microsoft.com).
 
-* sure both Git and MinGW are added to your system's environment **PATH** variables.
+> ⚠️ **Important Note:** Make sure both `Git` and `MinGW` are added to your system's environment **PATH** variables.
 
 ### 3. macOS
 
