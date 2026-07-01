@@ -2,10 +2,10 @@
 
 # For Linux
 program
-*.out 
+.out 
 
 # For Windows
-*.exe 
+.exe 
 
 # Object files for C++
-*.o
+.o
