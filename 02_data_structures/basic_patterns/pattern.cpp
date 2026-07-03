@@ -130,13 +130,13 @@ void pattern7(int n) {
 
   for (int i = 0; i < n; i++) {
 
-    for (int j = 1; j <= n-i-1; j++) { // for space on left side.
+    for (int j = 0; j < n-i-1; j++) { // for space on left side.
       cout << " ";
     }
-    for (int j = 1; j <= (2*i+1); j++) { // for stars in center.
+    for (int j = 0; j < 2*i+1; j++) { // for stars in center.
       cout << "*";
     }
-    for (int j = 1; j <= n-i-1; j++) { // for space on right side.
+    for (int j = 0; j < n-i-1; j++) { // for space on right side.
       cout << " ";
     }
 
@@ -145,11 +145,37 @@ void pattern7(int n) {
   }
 }
 
----
+// Patter 8:
+void pattern8(int n) {
+
+  /*
+  Example:
+  *********
+   *******
+    *****
+     ***
+      *
+  */
+
+  for (int i = 0; i < n; i++) {
+    for (int j = 0; j < i; j++) {
+      cout << " ";
+    }
+    for (int j = 0; j < 2*n-(2*i+1); j++) { // 2i+1, was used it previous equation,
+      cout << "*";                          // if you think about it, its just 2n-the previous values.
+    }
+    for (int j = 0; j < i; j++) {
+      cout << " ";
+    }
+    cout << endl;
+  }
+}
+
+// ---
 
 // Daily Practice:
 
-void pattern1(int n) {
+/* void pattern1(int n) {
   for (int i = 0; i < n; i++) {
     for (int j = 0; j < n; i++) {
       cout << "*";
@@ -205,23 +231,41 @@ void pattern6(int n) {
 
 void pattern7(int n) {
   for (int i = 1; i <= n; i++) {
-    for (int j = 1; j <= n-i-1; j++) {
-      cout " ";
+    for (int j = 0; j < n-i-1; j++) {
+      cout << " ";
     }
-    for (int j = 1; j <= 2*i+1; j++) {
-      cout << "*"
+    for (int j = 0; j < 2*i+1; j++) {
+      cout << "*";
     }
-    for (int j = 1; j <= n-i-1; j++) {
+    for (int j = 0; j < n-i-1; j++) {
       cout << " ";
     }
     cout << endl;
   }
 }
 
+
+void pattern8(int n) {
+  for (int i = 0; i < n; i++) {
+    for (int j = 0; j < i; j++) {
+      cout << " ";
+    }
+    for (int j = 0; j < 2*n-(2*i+1); j++) {
+      cout << "*";
+    }
+    for (int j = 0; j < i; j++) {
+      cout << " ";
+    }
+    cout << endl;
+  }
+}
+  */
+
+  
 // backend:
 int main() {
   int input{};
   cin >> input;
-  pattern7(input);
+  pattern8(input);
   return 0;
 }
