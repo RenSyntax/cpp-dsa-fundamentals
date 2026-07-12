@@ -58,6 +58,14 @@ The Folder right now is organized in following way:
 
 ![pattern_10.png](build/pattern_10.png)
 
+### Pattern 11 ✅
+
+![pattern_11.png](build/pattern_11.png)
+
+### Pattern 12 ✅
+
+![pattern_12.png](build/pattern_12.png)
+
 ---
 
 *Hope you have a nice day ahead ✨*
