@@ -1,10 +1,10 @@
-# 🚀 C++ Data Structures & Algorithms Mastery
+# 🚀 C++/Data Structures & Algorithms Fundamentals
 
-> ⚠️ **Important Note:** This repository is a live, ongoing learning journey and is currently **in progress**. The listed topics represent my long-term roadmap. Some directories or files may be empty or under construction as I take the time to learn and implement each concept.
+> ⚠️ **Important Note:** This repository is a live, ongoing learning journey and is currently **in progress**. Some directories or files may be empty or under work as I take the time to learn and implement each concept.
 
 ---
 
-Welcome to the **RenSyntax** repository dedicated to mastering C++ and Data Structures & Algorithms (DSA). This repository serves as a structured timeline of my learning journey, moving from basic syntax to complex algorithmic paradigms.
+Welcome to the **`cpp-dsa-fundamentals`** repository dedicated to learning C++ and Data Structures & Algorithms (DSA). This repository serves as a structured timeline of my learning journey, moving from basic syntax to complex data structures and algorithms.
 
 ---
 
@@ -12,11 +12,11 @@ Welcome to the **RenSyntax** repository dedicated to mastering C++ and Data Stru
 
 The project right now is organized logically into three major phases:
 
-* **`01_cpp_fundamentals/`** - Core language concepts including basic syntax, Object-Oriented Programming (OOPs), pointers, references, and Dynamic Memory Allocation (DMA).
+* **`01_cpp_fundamentals/`** - Core language concepts including basic syntax, pointers, references and more.
 
-* **`02_data_structures/`** - Implementations of standard data structures like Linked Lists, Stacks, Queues, Trees, and Graphs.
+* **`02_data_structures/`** - Implementations of standard data structures like Linked Lists, Array, String and more.
 
-* **`03_algorithms/`** - Standard problem-solving paradigms including Searching/Sorting, Recursion, Backtracking, and Dynamic Programming.
+* **`03_algorithms/`** - Standard problem-solving including Searching/Sorting, Recursion and more.
 
 ---
 
@@ -87,15 +87,15 @@ Run the following command in your respective terminal:
 
 - [ ] Complete core `C++` concepts required for `data structures & algorithms`.
 
-- [ ] Implement and understand all **fundamental** `data structures`
+- [ ] Implement and understand all basic **fundamental** `data structures`
 
-- [ ] Solve **200+** standard `DSA` problems across standard paradigms.
+- [ ] Solve **100+** standard `DSA` problems across diffirent topics.
 
 - [ ] Maintain clean, readable, and **well-commented/documented** code.
 
 ---
 
-> 📝 **Final Reflective Note:** You might notice that some of the code inside the `01_cpp_fundamentals/` directory looks a bit messy, unoptimized, or even slightly incorrect by industry standards. This is entirely intentional! That code represents the absolute beginning of my C++ journey. Instead of rewriting or deleting it to look perfect, I have chosen to leave it exactly as it was written. This serves as a permanent, documented benchmark so I can look back and visually track how much my coding skills, logic, and efficiency improve over time.
+> 📝 **Final Reflective Note:** You might notice that some of the code inside the `01_cpp_fundamentals/` directory looks a bit messy, unoptimized, or even slightly incorrect. This is entirely intentional! That code represents the absolute beginning of my C++ journey. Instead of rewriting or deleting it to look perfect, I have chosen to leave it exactly as it was written. This serves as a permanent, documented benchmark so I can look back and visually track how much my coding skills have improved over time.
 
 ---
 
