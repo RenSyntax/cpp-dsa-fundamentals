@@ -94,6 +94,22 @@ The Folder right now is organized in following way:
 
 ![pattern_19.png](build/pattern_19.png)
 
+### Pattern 20 ✅ ⭐
+
+![pattern_20.png](build/pattern_20.png)
+
+### Pattern 21 ✅
+
+![pattern_21.png](build/pattern_21.png)
+
+### Pattern 22 ✅ ⭐
+
+![pattern_22.png](build/pattern_22.png)
+
+---
+
+### 🎗️ Completed 🎗️
+
 ---
 
 *Hope you have a nice day ahead ✨*
