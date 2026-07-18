@@ -58,4 +58,14 @@ void vector() {
         cout << it << " ";
     }
 
+// ---
+
+    // Erase in vector: Deleting in vector. ---> Take Example vector, it = {20, 30 , 40. 32}
+    v.erase(v.begin() + 1, v.begin() + 3); // Result ---> {20, 40}
+    // Important Point: Remember that to erase, you first enter the starting memory location and then one after the element, till which you want to erase, its memory location.
+
+    // To Erase single element:
+    v.erase(v.begin() + 2); // This will erase '40' from example vector.
+
+// ---    
 }
