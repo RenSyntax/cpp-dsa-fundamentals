@@ -68,4 +68,14 @@ void vector() {
     v.erase(v.begin() + 2); // This will erase '40' from example vector.
 
 // ---    
+
+    // Insert Function
+    vector<int>v{2, 100}; // {100, 100}
+
+    v.insert(v.begin(), 300); // {300, 100, 100}
+    v.insert(v.begin() + 1, 2, 10); // {300, 10, 10, 100, 100}
+
+    // ---> How to insert one vector to another.
+    vector<int>copy{2, 50}; // {50, 50}
+    v.insert(v.begin(), copy.begin(), copy.end()); // {50, 50, 300, 10, 10, 100, 100}
 }
