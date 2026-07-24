@@ -1,6 +1,6 @@
 # 🚀 C++/Data Structures & Algorithms Fundamentals
 
-> ⚠️ **Important Note:** This repository is a live, ongoing learning journey and is currently **in progress**. Some directories or files may be empty or under work as I take the time to learn and implement each concept.
+> 💡 **Note:** This repository is a live, ongoing learning journey and is currently **in progress**. Some directories or files may be empty or under work as I take the time to learn and implement each concept.
 
 ---
 
@@ -26,7 +26,8 @@ Before running the code, you need to ensure you have `Git` and a `C++` compiler 
 
 ### 1. Linux
 
-> ⚠️ **Important Note for Linux Users:** The command below is specifically for **Debian/Ubuntu-based distributions (like Linux Mint or Pop!_OS)**. If you are using a different distribution (like Arch, Fedora, or openSUSE), packages and commands will vary. Please check your specific distribution's documentation online to install Git and the base development tools.
+> [!WARNING]
+> The command below is specifically for **Debian/Ubuntu-based distributions (like Linux Mint or Pop!_OS)**. If you are using a different distribution (like Arch, Fedora, or openSUSE), packages and commands will vary. Please check your specific distribution's documentation online to install Git and the base development tools.
 
 Run the following command for **Debian/Ubuntu-based distributions**
 
@@ -40,7 +41,8 @@ sudo apt update && sudo apt install build-essential git -y
 
 * **For C++ Compiler:** The easiest way to get g++ on Windows is by downloading [MinGW-w64 via MSYS2](https://www.msys2.org) or installing the "Desktop development with C++" workload via [Visual Studio Community](https://visualstudio.microsoft.com).
 
-> ⚠️ **Important Note:** Make sure both `Git` and `MinGW` are added to your system's environment **PATH** variables.
+> [!WARNING] 
+> Make sure both `Git` and `MinGW` are added to your system's environment **PATH** variables.
 
 ### 3. macOS
 
@@ -59,7 +61,7 @@ xcode-select --install
 Open terminal in a folder(the one you would like to clone the repo in) and run the following command in your respective terminal/konsole:
 
    ```bash
-   git clone https://github.com/rensyntax/cpp-dsa-mastery.git
+   git clone https://github.com/rensyntax/cpp-dsa-fundamentals.git
    ```
 
 ### 2. Navigate into the directory:
@@ -89,13 +91,13 @@ Run the following command in your respective terminal:
 
 - [ ] Implement and understand all basic **fundamental** `data structures`
 
-- [ ] Solve **100+** standard `DSA` problems across diffirent topics.
+- [ ] Solve **150+** standard `DSA` problems across diffirent topics.
 
 - [ ] Maintain clean, readable, and **well-commented/documented** code.
 
 ---
 
-> 📝 **Final Reflective Note:** You might notice that some of the code inside the `01_cpp_fundamentals/` directory looks a bit messy, unoptimized, or even slightly incorrect. This is entirely intentional! That code represents the absolute beginning of my C++ journey. Instead of rewriting or deleting it to look perfect, I have chosen to leave it exactly as it was written. This serves as a permanent, documented benchmark so I can look back and visually track how much my coding skills have improved over time.
+> 📝 **Reflective Note:** You might notice that some of the code inside the `01_cpp_fundamentals/` directory looks a bit messy, unoptimized, or even slightly incorrect. This is entirely intentional! That code represents the absolute beginning of my C++ journey. Instead of rewriting or deleting it to look perfect, I have chosen to leave it exactly as it was written. This serves as a permanent, documented benchmark so I can look back and visually see how much my coding skills have improved over time.
 
 ---
 
